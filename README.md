@@ -1,6 +1,6 @@
 Out of the box music bot that can be easily customized using discord.js and discord-player and FFMPEG, 
-Add a .env to the project that contains:\n
-{\n
+Add a .env to the project that contains:<br />
+{<br />
 token=Your bot token<br />
 clientId = discord bot client id<br />
 DP_FORCE_YTDL_MOD="play-dl"<br />
